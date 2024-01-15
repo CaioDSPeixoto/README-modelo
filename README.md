@@ -1,11 +1,11 @@
 > [!IMPORTANT]
-> Linhas que estão em vermelhas, são observações para auxiliar no desenvolvimento, precisam ser deletadas antes de ser publicada.
+> Linhas que estão com o icone :red_circle: no final, são observações para auxiliar no desenvolvimento, precisam ser deletadas antes de ser publicada.
 
 > [!IMPORTANT]
-> Linhas que estão em verde, são decisões que depende do processo. Deverá ser escolhida entre uma alternativa OU outra.
+> Linhas que estão com o icone :green_circle: no final, são decisões que depende do processo. Deverá ser escolhida entre uma alternativa OU outra e posteriormente deletadas.
 
 > [!WARNING]
-> Deletar todas as linhas vermelhas após a finalização do README.
+> Deletar todas as linhas com os icones vermelhos :red_circle: e verdes :green_circle: após a finalização do README.
 
 Titulo do projeto deverá ser alterado após o “-“ abaixo, mantendo o “# README” :red_circle:
 
