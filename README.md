@@ -1,43 +1,43 @@
 > [!IMPORTANT]
-> Linhas que estão em vermelhas, são observações para auxiliar no desenvolvimento, precisam ser deletadas antes de ser publicada.
+> Linhas que estão com o final em vermelhas, são observações para auxiliar no desenvolvimento, precisam ser deletadas antes de ser publicada.
 
 > [!IMPORTANT]
-> Linhas que estão em verde, são decisões que depende do processo. Deverá ser escolhida entre uma alternativa OU outra.
+> Linhas que estão com o final em verde, são decisões que depende do processo. Deverá ser escolhida entre uma alternativa OU outra.
 
 > [!WARNING]
 > Deletar todas as linhas vermelhas após a finalização do README.
 
-<span style="color:red">Titulo do projeto deverá ser alterado após o “-“ abaixo, mantendo o “# README”</span>
+Titulo do projeto deverá ser alterado após o “-“ abaixo, mantendo o “# README” `#fc0303`
 # :globe_with_meridians: README – Titulo do projeto 
 
 ## :scroll: Sobre o Projeto 
-{c:red}Breve explicação sobre o projeto, a ideia é tentar fazer com que alguém que não tenha conhecimento sobre o projeto consiga entender o motivo do mesmo ter sido feito e suas responsabilidades. Não precisa ser uma explicação técnica.{/c}
+Breve explicação sobre o projeto, a ideia é tentar fazer com que alguém que não tenha conhecimento sobre o projeto consiga entender o motivo do mesmo ter sido feito e suas responsabilidades. Não precisa ser uma explicação técnica.`#fc0303`
 O Firma Simples é um sistema ERP (Enterprise Resource Planning) web, desenvolvido para oferecer uma solução completa e integrada para a gestão empresarial. Utiliza tecnologias modernas para proporcionar uma experiência de usuário eficiente e intuitiva.
 
 ## :computer: Tecnologias Utilizadas
-{c:red}Aqui iremos mencionar todas as tecnologias usadas no projeto, desde a própria linguagem que será desenvolvida, bancos de dados que estão sendo utilizados.{/c}
+Aqui iremos mencionar todas as tecnologias usadas no projeto, desde a própria linguagem que será desenvolvida, bancos de dados que estão sendo utilizados.`#fc0303`
 - **C# e ASP.NET**: Para o desenvolvimento do backend.
 - **PostgreSQL**: Como sistema de gerenciamento de banco de dados.
 - **MongoDB**: Banco não-relacional para gravação de arquivos.
 - **Redis**:  Banco de dados em memória usado como armazenamento de chave-valor.
 
 ## :books: Bibliotecas Utilizadas
-{c:red}Aqui iremos mencionar todas as bibliotecas usadas no projeto{/c}
+Aqui iremos mencionar todas as bibliotecas usadas no projeto`#fc0303`
 - **Entity Framework**: Para ORM (Object-Relational Mapping).
 - **AutoMapper**: Para o mapeamento de objetos.
 - **NLog**: Para o gerenciamento de logs.
 - **FluentValidation**: Para validação de dados.
 
 ## :bricks: Arquitetura e Padrões
-{c:red}Breve detalhamento sobre como o projeto foi construído, se foi feito com base em alguma arquitetura especifica, se foi utilizado algum padrão de projeto ou algum design system especifico.{/c}
+Breve detalhamento sobre como o projeto foi construído, se foi feito com base em alguma arquitetura especifica, se foi utilizado algum padrão de projeto ou algum design system especifico.`#fc0303`
 - Arquitetura MVC (Model-View-Controller).
 - [Aurum  - Design System](https://zeroheight.com/8a3643989/p/56ee4e-aurum-web)
 - [Dev Express – Blazor UI](https://demos.devexpress.com/blazor/Grid)
 - Uso do Git Flow para gerenciamento de versões.
 
 ## :clipboard: Pré-requisitos
-{c:red}Defina os requisitos necessários para a execução do projeto. Nessa etapa ainda não iremos rodar o projeto, apenas instalar tudo que for necessário para o seu funcionamento.
-Obs: Se o possível, especificar versão do que precisa ser instalado para evitar incompatibilidade.{/c}
+Defina os requisitos necessários para a execução do projeto. Nessa etapa ainda não iremos rodar o projeto, apenas instalar tudo que for necessário para o seu funcionamento.
+Obs: Se o possível, especificar versão do que precisa ser instalado para evitar incompatibilidade.`#fc0303`
 - .NET Core 3.1 SDK
 - PostgreSQL (12.0)
 - MongoDB (3.2.21)
@@ -45,7 +45,7 @@ Obs: Se o possível, especificar versão do que precisa ser instalado para evita
 - IDE (Visual Studio, Visual Studio Code, etc.)
 
 ## :gear: Instalação e Configuração
-{c:red}Após tudo instalado na etapa anterior, aqui iremos detalhar o que precisa fazer para o projeto rodar na máquina.{/c}
+Após tudo instalado na etapa anterior, aqui iremos detalhar o que precisa fazer para o projeto rodar na máquina.`#fc0303`
 - Clonar o projeto na máquina.
 - Alterar informações dos appsettings para os ip’s locais.
 - Abrir o git bash na raiz do projeto, em seguida, executar o comando `npm install`
@@ -54,13 +54,13 @@ Obs: Se o possível, especificar versão do que precisa ser instalado para evita
 - Rodar um clean, build e executar o projeto selecionando.
 
 ## :postbox: Deploy
-{c:green}Deploy manual:{/c}
+Deploy manual:`#00ff44`
 Deverá ter um manual de como é realizado o deploy de forma manual. Desde o publish do projeto, arquivos que deverão ser salvos ou alterados, transferência para os servidores que serão publicados, os servidores que sofreram alteração, etc. Todo o detalhamento para a realização do deploy.
-{c:green}Deploy via Jenkins:{/c}
+Deploy via Jenkins:`#00ff44`
  Para realização de deploy via Jenkins, especificar como deverá ser feito. Se possuir parâmetros para build, explicar quais parâmetros devem ser utilizados e uma breve explicação do mesmo. Em seguida, como saber se a esteira teve sucesso ou falha (console output) e a url da esteira.
 
 ## :thumbsup: Contribuição
-{c:red}Defina as etapas que deverão ser seguidas para que seja feita um commit na aplicação. {/c}
+Defina as etapas que deverão ser seguidas para que seja feita um commit na aplicação. `#fc0303`
 1. Faça checkout para a branch develop.
 2. Crie uma branch seguindo o Git Flow.
 3. Faça commit das alterações seguindo o seguinte padrão (`NumeroDaTarefa-DescricaoDaTarefa`)
@@ -68,7 +68,7 @@ Deverá ter um manual de como é realizado o deploy de forma manual. Desde o pub
 5. Faça um pull-request de sua branch para develop.
 
 ## :bookmark_tabs: Licença
-{c:red}Defina a licença sob a qual o projeto será disponibilizado (MIT, Apache, GNU, BSD, MPL, AGPL) ou o time responsável juntamente com o gestor/supervisor do projeto.{/c}
+Defina a licença sob a qual o projeto será disponibilizado (MIT, Apache, GNU, BSD, MPL, AGPL) ou o time responsável juntamente com o gestor/supervisor do projeto.`#fc0303`
 Este projeto é distribuído sob a licença MIT. A equipe atualmente responsável pelo projeto é Questor, sendo gerenciado por Fulano de Tal.
 
 ## :trophy: Link Útil
