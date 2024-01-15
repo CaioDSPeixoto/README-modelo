@@ -1,14 +1,14 @@
-[!IMPORTANT]
-Linhas que estão em vermelhas, são observações para auxiliar no desenvolvimento, precisam ser deletadas antes de ser publicada.
+> [!IMPORTANT]
+> Linhas que estão em vermelhas, são observações para auxiliar no desenvolvimento, precisam ser deletadas antes de ser publicada.
 
-[!IMPORTANT]
-Linhas que estão em verde, são decisões que depende do processo. Deverá ser escolhida entre uma alternativa OU outra.
+> [!IMPORTANT]
+> Linhas que estão em verde, são decisões que depende do processo. Deverá ser escolhida entre uma alternativa OU outra.
 
-[!WARNING]
-Deletar todas as linhas vermelhas após a finalização do README.
+> [!WARNING]
+> Deletar todas as linhas vermelhas após a finalização do README.
 
 Titulo do projeto deverá ser alterado após o “-“ abaixo, mantendo o “# README”
-# :globe_with_meridians: README – Descreva aqui o título do projeto 
+# :globe_with_meridians: README – Titulo do projeto 
 
 ## :scroll: Sobre o Projeto 
 Breve explicação sobre o projeto, a ideia é tentar fazer com que alguém que não tenha conhecimento sobre o projeto consiga entender o motivo do mesmo ter sido feito e suas responsabilidades. Não precisa ser uma explicação técnica.
