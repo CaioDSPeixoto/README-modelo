@@ -7,7 +7,7 @@
 > [!WARNING]
 > Deletar todas as linhas vermelhas após a finalização do README.
 
-<p style="color:red">Titulo do projeto deverá ser alterado após o “-“ abaixo, mantendo o “# README”</p>
+<span style="color:red">Titulo do projeto deverá ser alterado após o “-“ abaixo, mantendo o “# README”</span>
 # :globe_with_meridians: README – Titulo do projeto 
 
 ## :scroll: Sobre o Projeto 
