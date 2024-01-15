@@ -45,9 +45,9 @@ Defina os requisitos necessários para a execução do projeto. Nessa etapa aind
 Obs: Se o possível, especificar versão do que precisa ser instalado para evitar incompatibilidade. :red_circle:
 
 - .NET Core 3.1 SDK
-- PostgreSQL (12.0)
-- MongoDB (3.2.21)
-- Node (versão 
+- PostgreSQL (versão 12.0)
+- MongoDB (versão 3.2.21)
+- Node (versão 18)
 - IDE (Visual Studio, Visual Studio Code, etc.)
 
 ## :gear: Instalação e Configuração
@@ -69,6 +69,17 @@ Deploy via Jenkins: :green_circle:
 
  Para realização de deploy via Jenkins, especificar como deverá ser feito. Se possuir parâmetros para build, explicar quais parâmetros devem ser utilizados e uma breve explicação do mesmo. Em seguida, como saber se a esteira teve sucesso ou falha (console output) e a url da esteira.
 
+## :label: Ambientes
+1. Ambiente de produção:
+   - [Url de produção:](https://www.questor.com.br)
+
+2. Ambiente de homologação:
+   - [Url de homologação:](https://www.questor.com.br)
+
+Possui swagger?
+- [x] :heavy_check_mark: Sim
+- [ ] :o: Não
+ 
 ## :thumbsup: Contribuição
 Defina as etapas que deverão ser seguidas para que seja feita um commit na aplicação. :red_circle:
 
