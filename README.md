@@ -85,4 +85,5 @@ Este projeto é distribuído sob a licença MIT. A equipe atualmente responsáve
 
 ## :trophy: Link Útil
 [Documentação do Github sobre Readme](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 [Icones](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#computer)
