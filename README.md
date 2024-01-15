@@ -79,7 +79,7 @@ Defina as etapas que deverão ser seguidas para que seja feita um commit na apli
 5. Faça um pull-request de sua branch para develop.
 
 ## :bookmark_tabs: Licença
-Defina a licença sob a qual o projeto será disponibilizado (MIT, Apache, GNU, BSD, MPL, AGPL) ou o time responsável juntamente com o gestor/supervisor do projeto.:red_circle:
+Defina a licença sob a qual o projeto será disponibilizado (MIT, Apache, GNU, BSD, MPL, AGPL) ou o time responsável juntamente com o gestor/supervisor do projeto. :red_circle:
 
 Este projeto é distribuído sob a licença MIT. A equipe atualmente responsável pelo projeto é Questor, sendo gerenciado por Fulano de Tal.
 
