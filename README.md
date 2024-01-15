@@ -44,11 +44,11 @@ Breve detalhamento sobre como o projeto foi construído, se foi feito com base e
 Defina os requisitos necessários para a execução do projeto. Nessa etapa ainda não iremos rodar o projeto, apenas instalar tudo que for necessário para o seu funcionamento.
 Obs: Se o possível, especificar versão do que precisa ser instalado para evitar incompatibilidade. :red_circle:
 
-- .NET Core 3.1 SDK
-- PostgreSQL (versão 12.0)
-- MongoDB (versão 3.2.21)
-- Node (versão 18)
-- IDE (Visual Studio, Visual Studio Code, etc.)
+- **.NET Core 3.1** (SDK)
+- **PostgreSQL** (Versão 12.0)
+- **MongoDB** (Versão 3.2.21)
+- **Node** (Versão 18)
+- **IDE** (Visual Studio, Visual Studio Code, etc.)
 
 ## :gear: Instalação e Configuração
 Após tudo instalado na etapa anterior, aqui iremos detalhar o que precisa fazer para o projeto rodar na máquina. :red_circle:
@@ -61,21 +61,21 @@ Após tudo instalado na etapa anterior, aqui iremos detalhar o que precisa fazer
 - Rodar um clean, build e executar o projeto selecionando.
 
 ## :postbox: Deploy
-Deploy manual: :green_circle:
+**Deploy manual:** :green_circle:
 
 Deverá ter um manual de como é realizado o deploy de forma manual. Desde o publish do projeto, arquivos que deverão ser salvos ou alterados, transferência para os servidores que serão publicados, os servidores que sofreram alteração, etc. Todo o detalhamento para a realização do deploy.
 
-Deploy via Jenkins: :green_circle:
+**Deploy via Jenkins:** :green_circle:
 
  Para realização de deploy via Jenkins, especificar como deverá ser feito. Se possuir parâmetros para build, explicar quais parâmetros devem ser utilizados e uma breve explicação do mesmo. Em seguida, como saber se a esteira teve sucesso ou falha (console output) e a url da esteira.
 
 ## :label: Ambientes
-1. Ambiente de produção:
+1. **Ambiente de produção:**
    - [Aplicação](https://www.questor.com.br)
    - [Swagger](https://www.questor.com.br)
    - [Hangfire](https://www.questor.com.br)
 
-2. Ambiente de homologação:
+2. **Ambiente de homologação:**
    - [Aplicação](https://www.questor.com.br)
    - [Swagger](https://www.questor.com.br)
    - [Hangfire](https://www.questor.com.br)
