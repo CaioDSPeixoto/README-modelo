@@ -71,14 +71,14 @@ Deploy via Jenkins: :green_circle:
 
 ## :label: Ambientes
 1. Ambiente de produção:
-   - [Url de produção:](https://www.questor.com.br)
+   - [Aplicação](https://www.questor.com.br)
+   - [Swagger](https://www.questor.com.br)
+   - [Hangfire](https://www.questor.com.br)
 
 2. Ambiente de homologação:
-   - [Url de homologação:](https://www.questor.com.br)
-
-`Possui swagger?`
-- :white_check_mark: Sim
-- :white_large_square: Não
+   - [Aplicação](https://www.questor.com.br)
+   - [Swagger](https://www.questor.com.br)
+   - [Hangfire](https://www.questor.com.br)
 
 ## :thumbsup: Contribuição
 Defina as etapas que deverão ser seguidas para que seja feita um commit na aplicação. :red_circle:
