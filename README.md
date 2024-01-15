@@ -75,11 +75,10 @@ Deploy via Jenkins: :green_circle:
 
 2. Ambiente de homologação:
    - [Url de homologação:](https://www.questor.com.br)
-```text
-Possui swagger?
+
+`Possui swagger?`
 - :white_check_mark: Sim
 - :white_large_square: Não
-```
 
 ## :thumbsup: Contribuição
 Defina as etapas que deverão ser seguidas para que seja feita um commit na aplicação. :red_circle:
