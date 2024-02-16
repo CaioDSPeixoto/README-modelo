@@ -35,7 +35,7 @@ Aqui iremos mencionar todas as bibliotecas usadas no projeto :red_circle:
 ## :bricks: Arquitetura e Padrões
 Breve detalhamento sobre como o projeto foi construído, se foi feito com base em alguma arquitetura especifica, se foi utilizado algum padrão de projeto ou algum design system especifico. :red_circle:
 
-- Arquitetura MVC (Model-View-Controller).
+- [Arquitetura MVC (Model-View-Controller)](https://learn.microsoft.com/pt-br/aspnet/core/mvc/overview?view=aspnetcore-8.0).
 - [Aurum  - Design System](https://zeroheight.com/8a3643989/p/56ee4e-aurum-web)
 - [Dev Express – Blazor UI](https://demos.devexpress.com/blazor/Grid)
 - Uso do Git Flow para gerenciamento de versões.
@@ -85,12 +85,16 @@ Defina as etapas que deverão ser seguidas para que seja feita um commit na apli
 
 1. Faça checkout para a branch develop.
 2. Crie uma branch seguindo o Git Flow.
-3. Faça commit das alterações seguindo o seguinte padrão (`NumeroDaTarefa-DescricaoDaTarefa`)
-4. Faça push para a branch criada na etapa 2.
-5. Faça um pull-request de sua branch para develop.
+3. Faça commit das alterações seguindo o seguinte padrão (`Numero Da Tarefa - DescricaoDaTarefa`) quando trabalhado com tarefas, ou por tipo de commit (`TipoDoComit - Descricao do que foi feito`)
+ - Exemplo 1: #123 - Adicionar campo x na tabela y.
+ - Exemplo 2: feat - Adicionado campo y na tabela x.
+5. Faça push para a branch criada na etapa 2.
+6. Faça um pull-request de sua branch para develop.
 
 ## :bookmark_tabs: Licença
 Defina a licença sob a qual o projeto será disponibilizado (MIT, Apache, GNU, BSD, MPL, AGPL) ou o time responsável juntamente com o gestor/supervisor do projeto. :red_circle:
+
+[Licenciar um repositório - Docs do GitHub](https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
 
 Este projeto é distribuído sob a licença MIT. A equipe atualmente responsável pelo projeto é Questor, sendo gerenciado por Fulano de Tal.
 
